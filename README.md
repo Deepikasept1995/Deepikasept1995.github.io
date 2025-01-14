@@ -5,12 +5,12 @@ The CRM Dashboard is designed to provide insights into customer relationship man
 It consolidates key metrics and visualizations to assist users in monitoring, analyzing, and improving business performance.
 
 ## THE FOCUS AREA INCLUDED:
-1.Lead Performance Analysis
-2.Opportunity Expected Amount Analysis
-3.Win Rate and Loss Rate Dashboards
-4.Conversion Rate Tracking 
-5.Active Opportunities and Leads Overview	
-6.Industry-Wise Analysis of Leads and Opportunities
+-1.Lead Performance Analysis
+-2.Opportunity Expected Amount Analysis
+-3.Win Rate and Loss Rate Dashboards
+-4.Conversion Rate Tracking 
+-5.Active Opportunities and Leads Overview	
+-6.Industry-Wise Analysis of Leads and Opportunities
 
 ![CRM DASHBOARD](https://github.com/Deepikasept1995/Deepikasept1995.github.io/blob/main/Screenshot%202025-01-10%20155904.png)
 
