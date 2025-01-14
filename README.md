@@ -12,7 +12,7 @@ It consolidates key metrics and visualizations to assist users in monitoring, an
 5.Active Opportunities and Leads Overview	
 6.Industry-Wise Analysis of Leads and Opportunities
 
-![CRM DASHBOARD]
+![CRM DASHBOARD](https://github.com/Deepikasept1995/Deepikasept1995.github.io/blob/main/Screenshot%202025-01-10%20155904.png)
 
 ## KEY LEARNINGS:
 The Interrelation of Leads and Opportunities
